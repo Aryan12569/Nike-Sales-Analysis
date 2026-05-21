@@ -91,6 +91,7 @@ The t-test result confirms that the revenue difference between Lifestyle and Run
 - **Bengaluru and Pune** — meaningful market presence but proportionate revenue has not yet followed; untapped potential exists
 
 ---
+![Nike Sales Dashboard](dashboard_preview.png)
 
 ## Recommendations
 
