@@ -119,7 +119,7 @@ Nike-Sales-Analysis/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/Nike-Sales-EDA.git
+   git clone https://github.com/Aryan12569/Nike-Sales-Analysis.git
    ```
 2. Install dependencies
    ```bash
